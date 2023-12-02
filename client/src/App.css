@@ -1,0 +1,18 @@
+.dateBox {
+    text-align: left;
+    display: inline-block;
+    padding: 40px;
+}
+.eventBox {
+    background-color: green;
+}
+.stack {
+    justify-content: center;
+}
+.container {
+    justify-content: center;
+    max-width: 100%;
+}
+.row {
+    max-width: 80%;
+}
